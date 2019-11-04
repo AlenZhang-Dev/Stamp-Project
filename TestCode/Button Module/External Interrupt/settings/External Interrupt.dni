@@ -1,0 +1,35 @@
+[DebugChecksum]
+Checksum=1695469536
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "F:\项目\cc254x蓝牙-创思通信部分\cc254x蓝牙-创思通信\2.初级实验\3.外部中断-按键检测\External Interrupt\main.c" ""
+Count=1
+SuppressDialog=1
