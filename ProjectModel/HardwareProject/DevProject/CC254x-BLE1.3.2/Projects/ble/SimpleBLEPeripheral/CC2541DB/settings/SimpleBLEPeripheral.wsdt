@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SimpleBLEPeripheral/CC2541</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>176</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>SourceBrowser</Factory></Window></Windows></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+    <SourceBrowser><PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window></Windows></PreferedWindows></SourceBrowser><TerminalIO/><Debug-Log><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1383</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-24180-9798</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-30575-10007</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-26597-18616</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-7428-17889</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>SimpleBLEPeripheral</ExpandedNode><ExpandedNode>SimpleBLEPeripheral/APP</ExpandedNode><ExpandedNode>SimpleBLEPeripheral/HAL</ExpandedNode><ExpandedNode>SimpleBLEPeripheral/NPI</ExpandedNode><ExpandedNode>SimpleBLEPeripheral/PROFILES</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\SimpleProfile\simpleGATTprofile.h</Filename><XPos>0</XPos><YPos>73</YPos><SelStart>4142</SelStart><SelEnd>4142</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\Keys\simplekeys.h</Filename><XPos>0</XPos><YPos>80</YPos><SelStart>3211</SelStart><SelEnd>3211</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\SimpleProfile\simpleGATTprofile.c</Filename><XPos>0</XPos><YPos>691</YPos><SelStart>22236</SelStart><SelEnd>22236</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\ble\include\gap.h</Filename><XPos>0</XPos><YPos>256</YPos><SelStart>18240</SelStart><SelEnd>18240</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\Batt\battservice.c</Filename><XPos>0</XPos><YPos>261</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\Keys\simplekeys.c</Filename><XPos>0</XPos><YPos>435</YPos><SelStart>4305</SelStart><SelEnd>4305</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\simpleBLEPeripheral.c</Filename><XPos>0</XPos><YPos>979</YPos><SelStart>31371</SelStart><SelEnd>31371</SelEnd></Tab><ActiveTab>6</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\Profiles\Batt\battservice.h</Filename><XPos>0</XPos><YPos>60</YPos><SelStart>2941</SelStart><SelEnd>2941</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\include\gapgattserver.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>2646</SelStart><SelEnd>2646</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\osal\common\OSAL.c</Filename><XPos>0</XPos><YPos>136</YPos><SelStart>4846</SelStart><SelEnd>4853</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_adc.c</Filename><XPos>0</XPos><YPos>159</YPos><SelStart>7547</SelStart><SelEnd>7547</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05181af0><key>iaridepm.enu1</key></Toolbar-05181af0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>808</Bottom><Right>267</Right><x>-2</x><y>-2</y><xscreen>361</xscreen><yscreen>59</yscreen><sizeHorzCX>376827</sizeHorzCX><sizeHorzCY>58590</sizeHorzCY><sizeVertCX>280793</sizeVertCX><sizeVertCY>804369</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>154</Bottom><Right>960</Right><x>-2</x><y>-2</y><xscreen>962</xscreen><yscreen>156</yscreen><sizeHorzCX>1004175</sizeHorzCX><sizeHorzCY>154916</sizeHorzCY><sizeVertCX>79332</sizeVertCX><sizeVertCY>119166</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

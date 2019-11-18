@@ -18,7 +18,7 @@ ActionState=1
 Enabled=0
 ShowSource=1
 [DebugChecksum]
-Checksum=1987444612
+Checksum=-90488714
 [DisAssemblyWindow]
 NumStates=_ 1
 State 1=_ 1
@@ -49,6 +49,7 @@ Count=0
 Stop timers on halt=0
 Leave target running=1
 [Aliases]
-A0=_ "F:\项目\cc254x蓝牙-创思通信部分\cc254x蓝牙-创思通信\2.初级实验\16.继电器模块\Relay\main.c" ""
-Count=1
+A0=_ "D:\File\印章项目可用代码\继电器驱动\Relay\main.c" ""
+A1=_ "F:\项目\cc254x蓝牙-创思通信部分\cc254x蓝牙-创思通信\2.初级实验\16.继电器模块\Relay\main.c" ""
+Count=2
 SuppressDialog=0
